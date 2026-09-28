@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>AI manager</name>
+	<author>YF_YUSUF</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<url>none</url>
+	<packageId>yfyusuf.AIManager</packageId>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+		</li>
+	</modDependencies>
+	<description>Adds AI manager</description>
+</ModMetaData>

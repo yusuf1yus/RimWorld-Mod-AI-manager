@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MxsFgffdav4=",
+  "success": true,
+  "projectFilePath": "C:\\YF_YUSUF disk D\\gamesD\\GOG Games\\RimWorld\\Mods\\AI_manager\\source\\AI_manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юсуф\\.nuget\\packages\\lib.harmony\\2.4.1\\lib.harmony.2.4.1.nupkg.sha512",
+    "C:\\Users\\Юсуф\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Юсуф\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
