@@ -79,8 +79,30 @@ namespace AIManager
 
             if(Widgets.ButtonText(options, "Options"))
             {
-                // Здесь открывается отдельное окно с настройками  
+                Log.Message("[AIManager] open options");
+                Find.WindowStack.Add(new Options());
             }
+        }
+    }
+
+    public class Options : Window
+    {
+        private string usersAPI;
+        public override Vector2 InitialSize => new Vector2(1080f, 420f);
+
+        public Options(){
+            doCloseX = true;
+            layer = WindowLayer.GameUI;
+            closeOnClickedOutside = false;
+            absorbInputAroundWindow = true;
+            draggable = false;
+            forcePause = true;
+            closeOnAccept = false;
+        }
+
+        public override void DoWindowContents(Rect inRect)
+        {
+            
         }
     }
     
