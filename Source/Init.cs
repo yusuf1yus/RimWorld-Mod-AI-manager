@@ -1,7 +1,7 @@
 using HarmonyLib;
 using Verse;
 
-namespace MyFirstMod
+namespace AIManager
 {
     [StaticConstructorOnStartup]
     public static class Init

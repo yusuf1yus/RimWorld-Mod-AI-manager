@@ -1,7 +1,0 @@
-C:\YF_YUSUF disk D\gamesD\GOG Games\RimWorld\Mods\AI_manager\1.6\Assemblies\AIManager.dll
-C:\YF_YUSUF disk D\gamesD\GOG Games\RimWorld\Mods\AI_manager\source\obj\Debug\AI_manager.csproj.AssemblyReference.cache
-C:\YF_YUSUF disk D\gamesD\GOG Games\RimWorld\Mods\AI_manager\source\obj\Debug\AI_manager.GeneratedMSBuildEditorConfig.editorconfig
-C:\YF_YUSUF disk D\gamesD\GOG Games\RimWorld\Mods\AI_manager\source\obj\Debug\AI_manager.AssemblyInfoInputs.cache
-C:\YF_YUSUF disk D\gamesD\GOG Games\RimWorld\Mods\AI_manager\source\obj\Debug\AI_manager.AssemblyInfo.cs
-C:\YF_YUSUF disk D\gamesD\GOG Games\RimWorld\Mods\AI_manager\source\obj\Debug\AI_manager.csproj.CoreCompileInputs.cache
-C:\YF_YUSUF disk D\gamesD\GOG Games\RimWorld\Mods\AI_manager\source\obj\Debug\AIManager.dll
