@@ -61,7 +61,6 @@ namespace AIManager
 
             if(Widgets.ButtonText(options, "Options"))
             {
-                Log.Message("[AIManager] open options");
                 Find.WindowStack.Add(new Dialog_Options());
             }
         }
