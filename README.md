@@ -6,8 +6,8 @@ AIManager mod adds new dialog window with AI agent where you can write your plan
 Mod add new button near to map control buttons. There you can write your plan or open mod settings. (WIP)
 
 ## Requierments
-### RimWorld version 1.6 
-### depends on Harmony
+* RimWorld version 1.6 
+* depends on Harmony
 
 ## My plans to the mod's development
 * Save user's API 

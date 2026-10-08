@@ -41,6 +41,8 @@ namespace AIManager
             if(Widgets.ButtonText(saveAPI, "Save"))
             {
                 Log.Message("[AIManager] user saved new API: " + userAPI);
+                AIManagerMod.settings.userAPI = userAPI;
+                AIManagerMod.settings.Write();
                 GUI.FocusControl("");
             }
         }
